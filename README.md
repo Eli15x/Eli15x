@@ -24,6 +24,7 @@ ____________-> JSON -> "encoding/json"
 Movie Work Now Front  (reactjs) use:
 
 to crypto -> JWT
+
 to request -> axios
 
 react-router-dom
