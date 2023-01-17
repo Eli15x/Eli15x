@@ -20,23 +20,3 @@ client Nosql -> MONGODB -> "go.mongodb.org/mongo-driver/mongo"
 to encoded -> BSON -> "go.mongodb.org/mongo-driver/bson"
 
 ____________-> JSON -> "encoding/json"
-
-Movie Work Now Front  (reactjs) use:
-
-to crypto -> JWT
-
-to request -> axios
-
-react-router-dom
-
-### schema
-		
-
-
-```mermaid
-sequenceDiagram
-Movie Work Now Front ->> Movie Work Now Api: Use
-Note right of Movie Work Now Front: MWNF use MWNA ,<br/> MWNF is in reactj and MWNA in go 
-
-```
-
