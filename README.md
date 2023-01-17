@@ -1,6 +1,6 @@
 # HI! 
 
-Hi! I'm  Elisa, this is my profile in github =D welcome.
+Hi! I'm  Elisa, this is my profile on github =D welcome.
 
 
 # Projects
@@ -9,11 +9,11 @@ Hi! I'm  Elisa, this is my profile in github =D welcome.
 
 Movie Work Now api  (go lang) use:
 
-to route ->  ECHO ->"github.com/labstack/echo/v4"
+to route -> ECHO ->"github.com/labstack/echo/v4"
 
 to storage errors -> BUGSNAG -> "github.com/bugsnag/bugsnag-go/v2"
 
-to show in console information and errors -> LOG -> "github.com/labstack/gommon/log"
+LOG -> "github.com/labstack/gommon/log"
 
 client Nosql -> MONGODB -> "go.mongodb.org/mongo-driver/mongo"
 
