@@ -9,6 +9,7 @@ Sou Desenvolvedora Back-end com mais de 5 anos de experiência em desenvolviment
 - **React**: 3 anos
 - **AWS**: 1 ano
 - **Kafka**: 2+ anos
+- **Nodejs**: 1 ano
 - **REST API**: 5+ anos
 - **Docker**: 4 anos
 - **Kubernetes**: 1 ano
