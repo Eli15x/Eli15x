@@ -1,25 +1,25 @@
-#Ola!
-Sou Desenvolvedora back-end, com experiência a 5+ anos de desenvolvimento,
 
-Atuação com:
-Golang (4+ anos)
-React(3 anos)
-Aws(1 ano)
-Kafka (2+ anos)
-Rest api(5+ anos)
-Docker (4 anos)
-Kubernets(1 ano)
-Nosql(3+ anos)
-Sql(5+ anos)
-php(2 anos)
+# Olá!
 
+Sou Desenvolvedora Back-end com mais de 5 anos de experiência em desenvolvimento. Minha atuação inclui uma ampla gama de tecnologias e práticas:
 
-Experiência com implementação de ferramentas de observabilidade, como datadog e new relic.
+### Tecnologias e Experiência:
 
-Experiência em implementação de testes unitários e integrada.
+- **Golang**: 4+ anos
+- **React**: 3 anos
+- **AWS**: 1 ano
+- **Kafka**: 2+ anos
+- **REST API**: 5+ anos
+- **Docker**: 4 anos
+- **Kubernetes**: 1 ano
+- **NoSQL**: 3+ anos
+- **SQL**: 5+ anos
+- **PHP**: 2 anos
 
-Experiência em estruturamento de equipes e de planejamento estratégico.
+### Experiência Adicional:
 
-Experiência em reestruturação de projetosSou Desenvolvedora back-end, com experiência a 5+ anos de desenvolvimento, Atuação com: Golang (4+ anos) React(3 anos) Aws(1 ano) Kafka (2+ anos) Rest api(5+ anos) Docker (4 anos) Kubernets(1 ano) Nosql(3+ anos) Sql(5+ anos) php(2 anos) Experiência com implementação de ferramentas de observabilidade, como datadog e new relic. Experiência em implementação de testes unitários e integrada. Experiência em estruturamento de equipes e de planejamento estratégico. Experiência em reestruturação de projetos
-
+- Implementação de ferramentas de observabilidade, como **Datadog** e **New Relic**.
+- Implementação de testes unitários e integração.
+- Estruturamento de equipes e planejamento estratégico.
+- Reestruturação de projetos.
 
